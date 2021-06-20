@@ -1,0 +1,8 @@
+name: PluginEssaie
+main: fr.Tit_tiT.PluginEssaie.Main
+author: Tit_tiT
+version: 1.2
+commands:
+  murder:
+    description: Rejoindre la partie de murder
+    usage: /murder [parametre]
